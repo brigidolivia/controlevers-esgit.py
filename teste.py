@@ -3,10 +3,3 @@ def libras_para_kg(l):
     conversao = "{:.6f}".format(peso)
     resposta = float(conversao)
     return resposta
-
-
-    # #kdsoakdoaskdoas
-    # daisjdiasjdiajs
-    # daisdjaisjdiasjdas
-    # iasjdiasjdiajsdias
-    # isajdiajsdiasjdiasjdi
